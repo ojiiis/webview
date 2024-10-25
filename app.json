@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "opay",
-    "slug": "opay",
-    "version": "1.0.0",
+    "slug": "Opay",
+    "version": "1.6.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -26,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c5a20a71-4e0e-490a-898b-5e12cc5beb77"
+        "projectId": "0096a11c-487a-4b22-af38-82fcf1415e1a"
       }
     }
   }
